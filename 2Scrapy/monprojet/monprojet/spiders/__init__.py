@@ -4,3 +4,4 @@
 # your spiders.
 
 #nintendo_spiderv1
+#nintendo_spiderv2
